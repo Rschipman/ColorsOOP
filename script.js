@@ -72,3 +72,5 @@ class Color {
   }
 }
 const c1 = new Color(255, 67, 89, "peachyRed");
+const color1 = new Color(40, 255, 65, "limeGreen");
+const color2 = new Color(0, 0, 0, "black");
